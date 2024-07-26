@@ -5,6 +5,7 @@
         BananaSplit,
         RockyRoad,
         MintChip,
+        RNG,
     }
 
     public class BingoSettings : EverestModuleSettings {
